@@ -5,7 +5,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://x-sub-sllnramygq.cn-shanghai.fcapp.run/x/f8e733ff339024ddb92622f031ec646d"
+    url: "****"
     type: http
     interval: 86400
     health-check:
